@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>The Souled Store</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+    }
+    h1, h2 {
+        color: #FF6347;
+    }
+    ul {
+       list-style-type: none;
+        padding: 0;
+    }
+    li {
+       margin-bottom: 5px;
+    }
+</style>
+<html>
+<body>
+    <h1>The Souled Store</h1>
+    <h2>SUMMER 24 NEW</H2>
+    <ul>
+       <li>TOPWEAR</li>
+       <li>BOTTOMWAER</li>
+       <li>SHOES & ACCESSORIES</li>
+    </ul>
+    <h2> RESTOCKED</h2>
+    <h2> JOYFUL WEDNESDAYS</h2>
+    <p> FOR MEMBERS ONLY</P>
+    <h2>HOMEGROWN INDIAN BRAND</h2>
+    <p>Over 6 Million Happy Customers</P>
+    <h2>25 LUCKY ORDERS WIN</h2>
+    <ul>
+        <li>IRONMAN HEADPHONES</li>
+        <li>FREE</li>
+    </ul>
+    <h2>WINNERS</h2>
+    <p>WILL RECEIVE A WHATSAPP CONFIRMATION FROM US</p>
+</body>
+</html>
